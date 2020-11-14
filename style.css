@@ -38,6 +38,15 @@ cite {
     color: #000000;
     text-decoration: none;
 }
+.navegacion-pulsado {
+    border-width:3px;  
+    border-style: inset;
+    border-color: #99ffff;
+    background-color: #ccffff;
+   	margin: auto;
+    color: #000000;
+    text-decoration: none;
+}
 abbr {
 	text-decoration: none
 }
