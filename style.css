@@ -34,7 +34,7 @@ cite {
     border-style: outset;
     border-color: #99ffff;
     background-color: #ccffff;
-   	margin: auto;
+	margin: auto;
     color: #000000;
     text-decoration: none;
 }
@@ -49,4 +49,10 @@ cite {
 }
 abbr {
 	text-decoration: none
+}
+#foticos {
+	display: flex;
+}
+img {
+	margin: auto;
 }
