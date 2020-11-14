@@ -50,9 +50,11 @@ cite {
 abbr {
 	text-decoration: none
 }
-#foticos {
-	display: flex;
+@media (max-width: 200px) {
+  #foticos {
+    flex-direction: column;
 }
 img {
-	margin: auto,
+	padding: 50px;
+  	flex: 25%;
 }
