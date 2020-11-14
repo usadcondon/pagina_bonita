@@ -1,0 +1,43 @@
+h1 {
+	text-align: center;
+}
+
+.pagina_normal {
+ 	background-color: #ffff33
+}
+
+.pagina_bonita {
+	background-color: #FFC0CB
+}
+
+nav {
+	display: flex
+}
+cite {
+	display: block;
+	text-align: center;
+}
+
+#triste {
+	display: block;
+	text-align: center;
+}
+
+
+#presentacion {
+	display: block;
+	text-align: center;
+}
+
+.navegacion {
+    border-width:3px;  
+    border-style: outset;
+    border-color: #99ffff;
+    background-color: #ccffff;
+   	margin: auto;
+    color: #000000;
+    text-decoration: none;
+}
+abbr {
+	text-decoration: none
+}
