@@ -55,8 +55,8 @@ abbr {
     flex-direction: column;
 }
 img {
-	max-width: 500px;
-	max-height: 500px
+	width: 500px;
+	height: 500px
 }
 	
 .arriba {
