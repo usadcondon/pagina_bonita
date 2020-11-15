@@ -36,7 +36,7 @@ cite {
     background-color: #ccffff;
     color: #000000;
     text-decoration: none;
-	width: 14%;
+	width: auto;
 }
 .navegacion-pulsado {
     border-width:3px;  
@@ -45,7 +45,7 @@ cite {
     background-color: #ccffff;
     color: #000000;
     text-decoration: none;
-	width: 14%;
+	width: auto;
 }
 
 abbr {
