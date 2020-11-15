@@ -11,7 +11,7 @@ h1 {
 }
 
 nav {
-	margin: auto;
+	width: 100%
 }
 cite {
 	display: block;
@@ -36,7 +36,9 @@ cite {
     background-color: #ccffff;
     color: #000000;
     text-decoration: none;
-	width: auto;
+	width: 15%;
+	padding: auto;
+	margin: 6px;
 }
 .navegacion-pulsado {
     border-width:3px;  
@@ -45,7 +47,9 @@ cite {
     background-color: #ccffff;
     color: #000000;
     text-decoration: none;
-	width: auto;
+	width: 15%;
+	padding: auto;
+	margin: 6px;
 }
 
 abbr {
@@ -57,4 +61,7 @@ abbr {
 }
 img {
 	width: 100%
+}
+#foticos {
+	width: auto;
 }
