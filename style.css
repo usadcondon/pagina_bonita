@@ -11,7 +11,7 @@ h1 {
 }
 
 nav {
-	display: flex
+	margin: auto;
 }
 cite {
 	display: block;
