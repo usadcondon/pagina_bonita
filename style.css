@@ -47,15 +47,9 @@ cite {
     color: #000000;
     text-decoration: none;
 }
+
 abbr {
 	text-decoration: none
-}
-@media (max-width: 200px) {
-  #foticos {
-    flex-direction: column;
-}
-img {
-	width: 24%;
 }
 	
 .arriba {
