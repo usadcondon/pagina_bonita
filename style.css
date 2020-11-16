@@ -41,13 +41,14 @@ nav li {
 }
 
 li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 15px 15px;
-  text-decoration: none;
-  font-size: 25pt;
-	text-transform: uppercase;
+display: block;
+color: white;
+text-align: center;
+padding: 15px 15px;
+text-decoration: none;
+font-size: 25pt;
+text-transform: uppercase;
+float: left;
 }
 
 li a:hover:not(.active) {
