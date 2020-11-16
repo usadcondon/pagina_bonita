@@ -10,58 +10,59 @@ h1 {
 	background-color: #FFC0CB;
 }
 
-nav {
-	width: 100%
-}
-cite {
-	display: block;
-	text-align: center;
-}
-
-#triste {
-	display: block;
-	text-align: center;
-}
-
-
-#presentacion {
-	display: block;
-	text-align: center;
-}
-
-.navegacion {
-    border-width:3px;  
-    border-style: outset;
-    border-color: #99ffff;
-    background-color: #ccffff;
-    color: #000000;
-    text-decoration: none;
-	width: 15%;
-	padding: auto;
-	margin: 6px;
-}
-.navegacion-pulsado {
-    border-width:3px;  
-    border-style: inset;
-    border-color: #99ffff;
-    background-color: #ccffff;
-    color: #000000;
-    text-decoration: none;
-	width: 15%;
-	padding: auto;
-	margin: 6px;
-}
-
 abbr {
 	text-decoration: none
 }
 	
-.arriba {
-	width: 100px;
-}
-img {
+#foto_andrea {
 	width: 100%
 }
+
 #foticos {
 	width: auto;
+  margin: ;
 }
+
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+nav li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #ff80ff;
+  color: #000000;
+}
+
+p,h2,h3,cite {
+  text-align: justify;
+  margin: 15px;
+}
+body {
+  margin: 0px;
+  font-family: arial
+}
+
