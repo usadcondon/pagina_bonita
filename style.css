@@ -46,7 +46,8 @@ li a {
   text-align: center;
   padding: 40px;
   text-decoration: none;
-  font-size: inherit
+  font-size: inherit;
+	text-transform: uppercase;
 }
 
 li a:hover:not(.active) {
