@@ -64,6 +64,6 @@ body {
   font-family: arial
 }
 
-h1,h2,h3,p,a,cite:active {
+h1,p,li:active {
 	text-transform: uppercase;
 }
