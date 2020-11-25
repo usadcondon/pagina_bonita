@@ -69,6 +69,6 @@ body {
   font-family: arial
 }
 
-:not(body):hover {
+:not(body,html,ul):hover {
 	color: red;
 }
