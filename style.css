@@ -64,6 +64,26 @@ body {
   font-family: arial
 }
 
-p:hover {
+li:hover {
+	text-transform: uppercase;
+}
+
+cite:hover {
+	text-transform: uppercase;
+}
+
+h3:hover {
+	text-transform: uppercase;
+}
+
+h2:hover {
+	text-transform: uppercase;
+}
+
+h1:hover {
+	text-transform: uppercase;
+}
+
+li:hover {
 	text-transform: uppercase;
 }
