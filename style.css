@@ -55,11 +55,6 @@ li a {
   background-color: #111;
 }
 
-.active {
-  background-color: #ff80ff;
-  color: #000000;
-}
-
 p,h2,h3,cite {
   text-align: justify;
   margin: 15px;
@@ -69,6 +64,6 @@ body {
   font-family: arial
 }
 
-h1,h2,h3,p,a,cite:hover {
+h1,h2,h3,p,a,cite:active {
 	text-transform: uppercase;
 }
