@@ -1,6 +1,3 @@
-*:hover {
-	background-color: red;
-}
 h1 {
 	text-align: center;
 }
@@ -71,4 +68,6 @@ body {
   margin: 0px;
   font-family: arial
 }
-
+*:hover {
+	background-color: red;
+}
