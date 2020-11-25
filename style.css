@@ -51,7 +51,7 @@ text-transform: uppercase;
 float: right;
 }
 
-li a:hover:not(.active) {
+li a {
   background-color: #111;
 }
 
@@ -69,5 +69,5 @@ body {
   font-family: arial
 }
 p,a:hover {
-	background-color: red;
+	color: red;
 }
