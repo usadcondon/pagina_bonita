@@ -69,6 +69,8 @@ body {
   font-family: arial
 }
 
-(p,a,h1):hover {
-	color: red;
+*:hover {
+	background-color: red;
+	font-weight: bold;
+	text-transform: uppercase;
 }
