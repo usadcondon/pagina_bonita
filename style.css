@@ -95,3 +95,7 @@ p:hover {
 img:hover {
 	width: 50%
 }
+
+a:hover {
+	background-color: pink;
+}
