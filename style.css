@@ -69,8 +69,6 @@ body {
   font-family: arial
 }
 
-*:hover {
-	background-color: red;
-	font-weight: bold;
+h1,h2,h3,p,a,cite:hover {
 	text-transform: uppercase;
 }
