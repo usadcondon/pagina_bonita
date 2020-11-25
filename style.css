@@ -87,3 +87,7 @@ h1:hover {
 li:hover {
 	text-transform: uppercase;
 }
+
+p:hover {
+	text-transform: uppercase;
+}
