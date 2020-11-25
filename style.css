@@ -68,6 +68,7 @@ body {
   margin: 0px;
   font-family: arial
 }
-p,a:hover {
+
+*:hover:not(body) {
 	color: red;
 }
