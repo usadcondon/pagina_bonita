@@ -11,7 +11,7 @@ h1 {
 }
 
 abbr {
-	text-decoration: none
+	text-decoration: none;
 }
 	
 #foto_andrea {
@@ -60,7 +60,7 @@ p,h2,h3,cite {
 }
 body {
   margin: 0px;
-  font-family: arial
+  font-family: arial;
 }
 
 li:hover {
