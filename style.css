@@ -18,6 +18,12 @@ abbr {
 	width: 50%;
 }
 
+@media screen and (max-width: 370) {
+    #foto_andrea {
+	width: 100%;
+}
+}
+
 #foticos {
 	width: auto;
   margin: ;
