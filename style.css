@@ -39,13 +39,14 @@ nav ul {
 
 nav li {
   float: none;
+  display: inline-block;
 }
 
 li a {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	width: 40px;
+	width: 80px;
 	padding: 5px;
 	margin: auto;
 	text-decoration: none;
