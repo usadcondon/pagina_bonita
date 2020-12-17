@@ -42,11 +42,11 @@ li a {
 	display: block;
 	color: white;
 	text-align: center;
-	padding: 15px 15px;
+    width: 15%;
 	text-decoration: none;
-	font-size: 34pt;
+	font-size: 15pt;
 	text-transform: uppercase;
-	float: right;
+	float: left;
 }
 
 li a {
@@ -62,36 +62,8 @@ body {
   font-family: arial;
 }
 
-li:hover {
-	text-transform: uppercase;
-}
-
-cite:hover {
-	text-transform: uppercase;
-}
-
-h3:hover {
-	text-transform: uppercase;
-}
-
-h2:hover {
-	text-transform: uppercase;
-}
-
-h1:hover {
-	text-transform: uppercase;
-}
-
-li:hover {
-	text-transform: uppercase;
-}
-
-p:hover {
-	text-transform: uppercase;
-}
-
-img:hover {
-	width: 50%;
+img:active {
+	width: 90%;
 }
 
 a:hover {
