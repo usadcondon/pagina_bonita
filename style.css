@@ -30,8 +30,6 @@ abbr {
 }
 
 nav {
-  overflow: hidden;
-  background-color: #333;
   position: fixed;
   bottom: 0;
   left: 0;
@@ -42,11 +40,11 @@ nav a {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	width: 55px;
+	width: 60px;
 	padding: 5px;
-	margin: auto;
+	margin: 0;
 	text-decoration: none;
-	font-size: 10px;
+	font-size: 12px;
 	text-transform: uppercase;
 	float: none;
 	background-color: #111;
