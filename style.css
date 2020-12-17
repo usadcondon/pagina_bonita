@@ -66,3 +66,6 @@ img:active {
 a:hover {
 	background-color: pink;
 }
+#abajo {
+    padding-bottom: 50px;
+}
